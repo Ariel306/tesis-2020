@@ -1,0 +1,53 @@
+/*Selector Universar*/
+*{
+    /*margen*/
+    margin: 0;
+    /*relleno*/
+    padding: 0;
+    
+}
+
+/*Aca pasa algo, por mas que baje o borre el padding y margin, va a seguir teniendo el mismo tamaño porque toma el tamaño de la imagen */
+.menu{
+    /*mostrar (en linea)*/
+    display: inline-block;
+    /*relleno*/
+    padding: 10px;
+    /*margen*/
+    margin: 30px;
+    /*posicion derecha*/
+    float:right;
+
+}
+.contenido{
+    /*decoracion del texto (ninguna)*/
+    text-decoration: none;
+    /*Tamaño de la letra*/
+    font-size: 30px;
+    color: #212a31;
+    /*relleno*/
+    padding: 1px;
+    /*color del relleno*/
+    background-color: #fdfdfd;
+    /*sacar sufrallado*/
+    text-decoration:none
+    
+    
+}
+
+.contenido2{
+    /*decoracion del texto (ninguna)*/
+    text-decoration: none;
+    /*Tamaño de la letra*/
+    font-size: 25px;
+    color: #dde3ea;
+    /*relleno*/
+    /*color del relleno*/
+    background-color: #d80d0d;
+    /*sacar sufrallado*/
+    text-decoration:none;
+    list-style-type:none;
+    
+    
+    
+}

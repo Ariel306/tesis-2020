@@ -1,0 +1,129 @@
+/*aca estan los estilos del login cuando ingresas*/
+html,
+body{
+    height: 100%;
+}
+body{
+    background: rgba(123,123,123,0.08);
+}
+.col-centrar{
+    float: none!important;
+    margin: 0 auto;
+}
+from{
+    padding: 20px;
+    background: #ffffff;
+    box-shadow: 0px 0px 6px 1px rgba(2, 2, 2, 0.12);
+}
+from input,
+button{
+    border-radius: 0!important;
+}
+.izq{
+    height: 100%;
+    width: 190px;
+    background-color: rgb(7, 4, 39);
+    position: fixed;
+    color: #fcfcfc;
+}
+
+.der{
+    margin-left: 190px;
+    padding-top: 60px; 
+    /*background-color: crimson;*/
+}
+
+.cabecera-pagina{
+    padding: 30px;
+}
+
+.titulo-pagina {
+    font-size: 24px;
+    display: inline-block;
+    margin-top: 0 !important;
+}
+.titulo-pagina > small{
+    font-size: 12px;
+    display: block;
+    margin-top: 5px;
+}
+
+.logo{
+    position: fixed;
+    background-color: rgb(7, 4, 39);
+}
+
+header .navbar{
+    margin-left: 190px;
+}
+
+.logo{
+    color: white;
+    width: 190px;
+    font-size: 20px;
+    float: left;
+    display: block;
+    text-align: center;
+    line-height: 50px;
+    z-index: 1;
+}
+
+.logo:hover{
+    text-decoration: none;
+}
+
+.panel{
+    margin-bottom: 20px;
+    background-color: #fff;
+    border-radius: 4px;
+}
+
+.bg-rojo{
+    background-color: rgba(178, 34, 34, 0.78);
+}
+.bg-azul{
+    background-color: rgba(34, 62, 178, 0.78);
+}
+.bg-verde{
+    background-color: rgba(34, 178, 34, 0.78);
+}
+.bg-amarillo{
+    background-color: rgba(178, 139, 34, 0.78);
+}
+
+
+.icono{
+    width:40%;
+    padding: 25px 15px;
+    display: inline-block;
+    text-align: center;
+}
+.icono svg{
+    font-size: 50px;
+    color: white;
+}
+
+.valor{
+    width: 58%;
+    padding-top: 15px;
+    float: right;
+    text-align: center;
+}
+
+.cantidad{
+    margin: 0 !important;
+}
+.caja{
+    padding: 20px;
+    background: #ffffff;
+    box-shadow: 0px 0px 4px 0px rgba(2, 2, 2, 0.1);
+}
+.input-group{
+    display: block !important;
+}
+input{
+    margin-bottom: 20px !important;
+}
+bg{
+    background-size: cover;
+}

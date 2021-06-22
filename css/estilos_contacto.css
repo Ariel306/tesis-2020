@@ -1,0 +1,35 @@
+/*Selector Universar*/
+*{
+    /*margen*/
+    margin: 0;
+    /*relleno*/
+    padding: 0;
+    
+}
+
+.contacto{
+    margin-top:5px;
+    padding: 50px;
+    text-align: center;
+    color:aliceblue;
+    background-color: #402c93;
+    font-size: 45px;
+}
+    
+
+.texto{
+    margin-top:50px;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: center;
+    color:darkgoldenrod;
+    font-size: 30px;
+}
+
+.consulta{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
