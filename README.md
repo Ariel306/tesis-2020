@@ -5,3 +5,9 @@ MAPA DEL SISTEMA EN IMAGEN: [Mapa del Sistema.docx](https://github.com/Ariel306/
 
 # tesis-2020
 Repositorio de mi Tesis creada con HTML, CSS, JavaScript, PHP, MySQL. Dicha tesis se basa sobre una pagina de servicios donde los usuarios pueden publicar o buscar servicios de forma gratuita.
+
+Usuario Root: flor1234@hotmail.com
+Contraseña: 1234567
+
+Usuario: probando@gmail.com
+Contraseña: 1234567
