@@ -24,7 +24,7 @@
     
     <section>
         <div class="contacto">
-            <h1>Inicio Principal</h1>
+            <h1>Inicio</h1>
         </div>
     </section>
     <br>
