@@ -35,7 +35,7 @@
         <img width='284' height='284' src="../imagenes/servicios/salud/salud.jpg" class="card-img-top" alt="Imagen relacionada a los servicios de salud" >
         <div class="card-body">
           <h5 class="card-title" style="text-align:center;">Salud</h5>
-          <p class="card-text">Busca todos los hospitales de tu zona, salitas y farmacias que se encuentren disponible a tus horarios o consultas.</p>
+          <p class="card-text">Busca todos los hospitales de tu zona, salitas y farmacias.</p>
           
         </div>
         <ul class="list-group list-group-flush">
